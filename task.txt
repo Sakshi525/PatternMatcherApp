@@ -1,0 +1,16 @@
+Here is the practical details 
+
+Create API named matchPattern with 2 inputs, pattern and string.  Call API on any page with two input box for those two inputs and show output true or false. 
+
+Input Pattern : pattern will have total 5 chars and will not have more than three same characters e.g abacb,xzyxy,wzyzw
+
+Input String : string will not have more than 5 words and will have maximum 3 same words.
+e.g cat dog cat got dog , Hi Ho Hello Hi Hello
+
+We have to match string with pattern and return true if pattern match , user cna enter any string with above format and any pattern as per given example.
+
+So if pattern is  abacb and  string is "cat dog cat got dog" than on page it should show result true , means its matched. Note user will enter both text pattern and string.
+ 
+So in screen there will be 2 input box , one for Enter Pattern and one for Enter String , add one button when we click on it it will show result true/false on screen
+
+please share video and source code once practical done.
